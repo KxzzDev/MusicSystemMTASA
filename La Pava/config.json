@@ -1,0 +1,16 @@
+[
+    {
+        "musicName": "La Pava",
+        "musicgen": "Tipico",
+        "musicAutor": "Tatico Henríquez",
+        "links": {
+            "63": "https://raw.githubusercontent.com/KxzzDev/MusicSystemMTASA/main/La%20Pava/63Hz.ogg",
+            "125": "https://raw.githubusercontent.com/KxzzDev/MusicSystemMTASA/main/La%20Pava/125Hz.ogg",
+            "315": "https://raw.githubusercontent.com/KxzzDev/MusicSystemMTASA/main/La%20Pava/315Hz.ogg",
+            "750": "https://raw.githubusercontent.com/KxzzDev/MusicSystemMTASA/main/La%20Pava/750Hz.ogg",
+            "2200": "https://raw.githubusercontent.com/KxzzDev/MusicSystemMTASA/main/La%20Pava/2200Hz.ogg",
+            "6300": "https://raw.githubusercontent.com/KxzzDev/MusicSystemMTASA/main/La%20Pava/6300Hz.ogg",
+            "16000": "https://raw.githubusercontent.com/KxzzDev/MusicSystemMTASA/main/La%20Pava/16000Hz.ogg"
+        }
+    }
+]
