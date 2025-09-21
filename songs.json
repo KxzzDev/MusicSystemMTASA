@@ -1,0 +1,54 @@
+{
+  "Si tuviera que salir": {
+    "musicgen": "Doble Tono",
+    "musicAutor": "MUSICOLOGO X DJ PATIO",
+    "knobs": {
+      "63": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Si%20no%20tuviera%20que%20salir/63Hz.ogg",
+      "125": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Si%20no%20tuviera%20que%20salir/125Hz.ogg",
+      "315": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Si%20no%20tuviera%20que%20salir/315Hz.ogg",
+      "750": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Si%20no%20tuviera%20que%20salir/750Hz.ogg",
+      "2200": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Si%20no%20tuviera%20que%20salir/2200Hz.ogg",
+      "6300": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Si%20no%20tuviera%20que%20salir/6300Hz.ogg",
+      "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Si%20no%20tuviera%20que%20salir/16000Hz.ogg"
+    }
+  },
+  "Me voy de ti": {
+    "musicgen": "Bachata",
+    "musicAutor": "El Chaval de la Bachata",
+    "knobs": {
+      "63": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Me%20voy%20de%20ti/63Hz.ogg",
+      "125": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Me%20voy%20de%20ti/125Hz.ogg",
+      "315": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Me%20voy%20de%20ti/315Hz.ogg",
+      "750": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Me%20voy%20de%20ti/750Hz.ogg",
+      "2200": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Me%20voy%20de%20ti/2200Hz.ogg",
+      "6300": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Me%20voy%20de%20ti/6300Hz.ogg",
+      "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Me%20voy%20de%20ti/16000Hz.ogg"
+    }
+  },
+  "Eoo Doble Tono": {
+    "musicgen": "Doble Tono",
+    "musicAutor": "Bad Bunny",
+    "knobs": {
+      "63": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Eoo%20Doble%20Tono/63Hz.ogg",
+      "125": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Eoo%20Doble%20Tono/125Hz.ogg",
+      "315": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Eoo%20Doble%20Tono/315Hz.ogg",
+      "750": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Eoo%20Doble%20Tono/750Hz.ogg",
+      "2200": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Eoo%20Doble%20Tono/2200Hz.ogg",
+      "6300": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Eoo%20Doble%20Tono/6300Hz.ogg",
+      "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/Eoo%20Doble%20Tono/16000Hz.ogg"
+    }
+  },
+  "La Pava": {
+    "musicgen": "Tipico",
+    "musicAutor": "Tatico Henríquez",
+    "knobs": {
+      "63": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/La%20Pava/63Hz.ogg",
+      "125": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/La%20Pava/125Hz.ogg",
+      "315": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/La%20Pava/315Hz.ogg",
+      "750": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/La%20Pava/750Hz.ogg",
+      "2200": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/La%20Pava/2200Hz.ogg",
+      "6300": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/La%20Pava/6300Hz.ogg",
+      "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/La%20Pava/16000Hz.ogg"
+    }
+  }
+}
