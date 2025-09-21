@@ -51,19 +51,6 @@
       "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/refs/heads/main/La%20Pava/16000Hz.ogg"
     }
   },
-  "El Hombre Tacaño": {
-    "musicgen": "Tipico",
-    "musicAutor": "Español Nuñez",
-    "knobs": {
-      "63": "https://raw.githubusercontent.com/KxzzDev/MusicSystemMTASA/main/El%20Hombre%20Tacano/63Hz.ogg",
-      "125": "https://raw.githubusercontent.com/KxzzDev/MusicSystemMTASA/main/El%20Hombre%20Tacano/125Hz.ogg",
-      "315": "https://raw.githubusercontent.com/KxzzDev/MusicSystemMTASA/main/El%20Hombre%20Tacano/315Hz.ogg",
-      "750": "https://raw.githubusercontent.com/KxzzDev/MusicSystemMTASA/main/El%20Hombre%20Tacano/750Hz.ogg",
-      "2200": "https://raw.githubusercontent.com/KxzzDev/MusicSystemMTASA/main/El%20Hombre%20Tacano/2200Hz.ogg",
-      "6300": "https://raw.githubusercontent.com/KxzzDev/MusicSystemMTASA/main/El%20Hombre%20Tacano/6300Hz.ogg",
-      "16000": "https://raw.githubusercontent.com/KxzzDev/MusicSystemMTASA/main/El%20Hombre%20Tacano/16000Hz.ogg"
-    }
-  },
   "La Parrandera": {
     "musicgen": "Tipico",
     "musicAutor": "Julio Henríquez",
@@ -77,5 +64,4 @@
       "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/La Parrandera/16000Hz.ogg"
     }
   }
-
 }
