@@ -76,5 +76,18 @@
       "6300": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/El Hombre Tacano/6300Hz.ogg",
       "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/El Hombre Tacano/16000Hz.ogg"
     }
+  },
+  "Vuelve Candy B": {
+    "musicgen": "Doble Tono",
+    "musicAutor": "Bad Bunny",
+    "knobs": {
+      "63": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Vuelve Candy B/63Hz.ogg",
+      "125": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Vuelve Candy B/125Hz.ogg",
+      "315": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Vuelve Candy B/315Hz.ogg",
+      "750": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Vuelve Candy B/750Hz.ogg",
+      "2200": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Vuelve Candy B/2200Hz.ogg",
+      "6300": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Vuelve Candy B/6300Hz.ogg",
+      "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Vuelve Candy B/16000Hz.ogg"
+    }
   }
 }
