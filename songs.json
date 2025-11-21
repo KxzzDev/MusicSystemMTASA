@@ -128,5 +128,18 @@
       "6300": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Que Vuelvas/6300Hz.ogg",
       "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Que Vuelvas/16000Hz.ogg"
     }
+  },
+  "Te Burlaste de mi": {
+    "musicgen": "Bachata",
+    "musicAutor": "El chaval de la bachata",
+    "knobs": {
+      "63": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Te Burlaste de mi/63Hz.ogg",
+      "125": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Te Burlaste de mi/125Hz.ogg",
+      "315": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Te Burlaste de mi/315Hz.ogg",
+      "750": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Te Burlaste de mi/750Hz.ogg",
+      "2200": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Te Burlaste de mi/2200Hz.ogg",
+      "6300": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Te Burlaste de mi/6300Hz.ogg",
+      "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Te Burlaste de mi/16000Hz.ogg"
+    }
   }
 }
