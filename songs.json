@@ -90,17 +90,17 @@
       "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Vuelve Candy B/16000Hz.ogg"
     }
   },
-  "Ya Me Entere": {
+  "Chiquilla Bonita": {
     "musicgen": "Bachata",
     "musicAutor": "Dalvin La Melodia",
     "knobs": {
-      "63": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Ya Me Entere/63Hz.ogg",
-      "125": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Ya Me Entere/125Hz.ogg",
-      "315": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Ya Me Entere/315Hz.ogg",
-      "750": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Ya Me Entere/750Hz.ogg",
-      "2200": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Ya Me Entere/2200Hz.ogg",
-      "6300": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Ya Me Entere/6300Hz.ogg",
-      "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Ya Me Entere/16000Hz.ogg"
+      "63": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Chiquilla Bonita/63Hz.ogg",
+      "125": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Chiquilla Bonita/125Hz.ogg",
+      "315": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Chiquilla Bonita/315Hz.ogg",
+      "750": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Chiquilla Bonita/750Hz.ogg",
+      "2200": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Chiquilla Bonita/2200Hz.ogg",
+      "6300": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Chiquilla Bonita/6300Hz.ogg",
+      "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Chiquilla Bonita/16000Hz.ogg"
     }
   }
 }
