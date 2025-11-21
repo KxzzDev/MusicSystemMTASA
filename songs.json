@@ -115,6 +115,18 @@
       "6300": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Chiquilla Bonita/6300Hz.ogg",
       "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Chiquilla Bonita/16000Hz.ogg"
     }
+  },
+  "Que Vuelvas": {
+    "musicgen": "Bachata",
+    "musicAutor": "Anthony Santos",
+    "knobs": {
+      "63": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Que Vuelvas/63Hz.ogg",
+      "125": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Que Vuelvas/125Hz.ogg",
+      "315": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Que Vuelvas/315Hz.ogg",
+      "750": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Que Vuelvas/750Hz.ogg",
+      "2200": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Que Vuelvas/2200Hz.ogg",
+      "6300": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Que Vuelvas/6300Hz.ogg",
+      "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Que Vuelvas/16000Hz.ogg"
+    }
   }
-
 }
