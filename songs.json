@@ -141,5 +141,18 @@
       "6300": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Te Burlaste de mi/6300Hz.ogg",
       "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Te Burlaste de mi/16000Hz.ogg"
     }
+  },
+  "Caretica": {
+    "musicgen": "Dembow",
+    "musicAutor": "Ronny Gta",
+    "knobs": {
+      "63": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Caretica/63Hz.ogg",
+      "125": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Caretica/125Hz.ogg",
+      "315": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Caretica/315Hz.ogg",
+      "750": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Caretica/750Hz.ogg",
+      "2200": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Caretica/2200Hz.ogg",
+      "6300": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Caretica/6300Hz.ogg",
+      "16000": "https://github.com/KxzzDev/MusicSystemMTASA/raw/main/Caretica/16000Hz.ogg"
+    }
   }
 }
